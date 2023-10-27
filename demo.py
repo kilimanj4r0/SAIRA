@@ -28,7 +28,7 @@ if prompt := st.chat_input("What is up?"):
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
-        query_engine.set_query(prompt)
+        resp = query_engine.query(prompt)
         message_placeholder = st.empty()
         full_response = ""
         assistant_response = random.choice(
@@ -39,9 +39,8 @@ if prompt := st.chat_input("What is up?"):
             ]
         )
         # Simulate stream of response with milliseconds delay
-        for chunk in assistant_response.split():
-            full_response += chunk + " "
-            time.sleep(0.05)
+        for text in resp.response_gen:
+            full_response += text
             # Add a blinking cursor to simulate typing
             message_placeholder.markdown(full_response + "▌")
         message_placeholder.markdown(full_response)
