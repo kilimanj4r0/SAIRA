@@ -1,12 +1,15 @@
 # SAIRA: Student Affairs AI Response Assistant
 
-![SAIRA Logo](https://roscontrol.com/wp-content/uploads/2021/09/3154162842492e414e52.jpg)
+![gm52qm91gjycxi4htfrnmgq26vb1px4v](https://github.com/bart02/SAIRA/assets/19249148/b87beaa4-e256-43de-938f-709384f439bf)
 
 ### ✊ Team
 - **Vladimir Makharev** (Team Lead)
 - **Evgenii Evlampev** (ML Engineer)
 - **Danil Andreev** (Python Developer)
 - **Artem Batalov** (Dev&ML Ops)
+
+## 🖥️ Demo video
+https://youtu.be/KZKuOo5xT24
 
 ## 📌 Introduction
 
