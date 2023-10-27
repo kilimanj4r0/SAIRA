@@ -1,1 +1,6 @@
 streamlit
+llama_index
+transformers
+beautifulsoup4
+requests
+urllib3

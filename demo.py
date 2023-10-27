@@ -1,12 +1,22 @@
-from index import build_index
 import streamlit as st
 import random
 import time
+from index import build_index, build_service_context
 from loader import load_documents 
 
 st.title("Simple chat")
-documents = load_documents()
-index = build_index(documents)
+
+@st.cache_data
+def load_docs_and_build_index(context):
+    docs = load_documents()
+    return build_index(docs, context)
+
+@st.cache_resource
+def load_context():
+    return build_service_context()
+
+context = load_context()
+index = load_docs_and_build_index(context)
 query_engine = index.as_query_engine(streaming=True)
 
 # Initialize chat history
