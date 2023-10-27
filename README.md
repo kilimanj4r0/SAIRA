@@ -2,7 +2,7 @@
 
 ![SAIRA Logo](https://roscontrol.com/wp-content/uploads/2021/09/3154162842492e414e52.jpg)
 
-**Team**:
+### ✊ Team
 - **Vladimir Makharev** (Team Lead)
 - **Evgenii Evlampev** (ML Engineer)
 - **Danil Andreev** (Python Developer)
@@ -42,7 +42,7 @@ Students can inquire about:
 
 1. **Installation**:
    ```bash
-   git clone <repository_link> 
+   git clone https://github.com/bart02/SAIRA.git
    cd SAIRA
    pip install -r requirements.txt
 
