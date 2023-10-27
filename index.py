@@ -6,15 +6,17 @@ from llama_index.llms import LlamaCPP
 
 from utils import completion_to_prompt, messages_to_prompt
 
-service_context = ServiceContext.from_defaults(llm=LlamaCPP(
-    model_path=None,
-    messages_to_prompt=messages_to_prompt,
-    completion_to_prompt=completion_to_prompt,
-    model_kwargs={"n_gpu_layers": 50},
-))
 
-def build_index(documents):
-    index = VectorStoreIndex.from_documents(documents, service_context=service_context)
+def build_service_context():
+    return ServiceContext.from_defaults(llm=LlamaCPP(
+        model_path=None,
+        messages_to_prompt=messages_to_prompt,
+        completion_to_prompt=completion_to_prompt,
+        model_kwargs={"n_gpu_layers": 50},
+    ))
+
+def build_index(documents, context):
+    index = VectorStoreIndex.from_documents(documents, service_context=context)
     return index
 
 

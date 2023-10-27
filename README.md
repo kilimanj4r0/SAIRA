@@ -45,4 +45,10 @@ Students can inquire about:
    git clone https://github.com/bart02/SAIRA.git
    cd SAIRA
    pip install -r requirements.txt
+   CMAKE_ARGS="-DLLAMA_CUBLAS=on" pip install llama-cpp-python
+   ```
 
+2. **Run demo**:
+   ```bash
+   streamlit run demo.py
+   ```
