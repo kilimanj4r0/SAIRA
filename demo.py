@@ -1,8 +1,13 @@
+from index import build_index
 import streamlit as st
 import random
 import time
+from loader import load_documents 
 
 st.title("Simple chat")
+documents = load_documents()
+index = build_index(documents)
+query_engine = index.as_query_engine(streaming=True)
 
 # Initialize chat history
 if "messages" not in st.session_state:
@@ -23,6 +28,7 @@ if prompt := st.chat_input("What is up?"):
 
     # Display assistant response in chat message container
     with st.chat_message("assistant"):
+        query_engine.set_query(prompt)
         message_placeholder = st.empty()
         full_response = ""
         assistant_response = random.choice(
