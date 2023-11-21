@@ -1,15 +1,21 @@
 # SAIRA: Student Affairs AI Response Assistant
-
-![gm52qm91gjycxi4htfrnmgq26vb1px4v](https://github.com/bart02/SAIRA/assets/19249148/b87beaa4-e256-43de-938f-709384f439bf)
+<p align="center">
+<img src="https://prodvdom.ru/local/templates/main2017/img/pic/0555_3020.png" alt="Saira" width="200"/>
+</p>
 
 ### ✊ Team
-- **Vladimir Makharev** (Team Lead)
-- **Evgenii Evlampev** (ML Engineer)
-- **Danil Andreev** (Python Developer)
-- **Artem Batalov** (Dev&ML Ops)
+- 🧑‍💻 **Vladimir Makharev** (Team Lead)
+- 🧑‍💻 **Evgenii Evlampev** (ML Engineer)
+- 🧑‍💻 **Danil Andreev** (Python Developer)
+- 🧑‍💻 **Artem Batalov** (Dev&ML Ops)
 
-## 🖥️ Demo video
-https://youtu.be/KZKuOo5xT24
+## [🖥️ Video Demo](https://youtu.be/KZKuOo5xT24)
+
+<p align="center">
+<a href="https://www.youtube.com/watch?v=KZKuOo5xT24">
+<img src="https://img.youtube.com/vi/KZKuOo5xT24/0.jpg" alt="Video Demo"/>
+</a>
+</p>
 
 ## 📌 Introduction
 
@@ -45,7 +51,7 @@ Students can inquire about:
 
 1. **Installation**:
    ```bash
-   git clone https://github.com/bart02/SAIRA.git
+   git clone https://github.com/kilimanj4r0/SAIRA.git
    cd SAIRA
    pip install -r requirements.txt
    CMAKE_ARGS="-DLLAMA_CUBLAS=on" pip install llama-cpp-python
@@ -53,5 +59,6 @@ Students can inquire about:
 
 2. **Run demo**:
    ```bash
+   cd demo-streamlit
    streamlit run demo.py
    ```
