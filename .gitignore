@@ -160,6 +160,7 @@ cython_debug/
 #.idea/
 
 report-template/*
-parsed/raw/*
+data/documents/raw/*
+index/*
 .DS_Store
 
