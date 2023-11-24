@@ -1,6 +1,6 @@
 # SAIRA: Student Affairs AI Response Assistant
 <p align="center">
-<img src="https://prodvdom.ru/local/templates/main2017/img/pic/0555_3020.png" alt="Saira" width="200"/>
+<img src="report/saira.png" alt="Saira" width="200"/>
 </p>
 
 ### ✊ Team
