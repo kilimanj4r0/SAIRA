@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How do we pass Physical Education at Innopolis University?",
+    "answer": "Education Department sets a minimum of credit units required to pass a PE test. This information is depicted in Moodle. Student has to accumulate a certain number of attendance hours in Sports Complex of Innopolis, as well as has to pass the standards before the deadline.",
+    "generated_answer": "\nIt appears that you are looking for information on how to pass physical education classes at Innopolis University. However, the given text does not provide a clear and concise answer to this query. It includes information about elective courses, but no details about passing physical education classes specifically."
+  },
+  {
+    "question": "When can I start visiting the Sports Complex?",
+    "answer": "From the 1st of September, after you are officially enrolled.",
+    "generated_answer": "\nThe information provided does not mention any specific dates or times for starting to visit the Sports Complex. The course sections mentioned are related to physical culture and sport psychology, game theory, and physical culture and sport nutrition, but they do not contain any details about visiting a sports complex."
+  },
+  {
+    "question": "When do we have retakes at Innopolis University?",
+    "answer": "Student is offered two retakes, the dates are scheduled by Education Department. Information is delivered to student's @innopolis.ru",
+    "generated_answer": "\nAt Innopolis University, students are allowed to take retakes for courses in certain situations. The official policy on retakes is as follows:\n\n1. A student who has failed a course must take a retake.\n2. Retake will be granted if the student has not missed more than 50% of the lectures and seminars, and has received a grade of \"F\".\n3. The grade for the retake is the average of the two grades.\n4. A student who has failed two or more courses in a single semester must retake them all in the following semester.\n5. The deadline for submitting applications for retakes is at least one month before the start of the next semester.\n\nPlease note that these are general guidelines and may be subject to change depending on the specific circumstances of each case. If you have any questions or concerns about retakes, it is best to consult with the relevant faculty member or academic advisor for more information."
+  },
+  {
+    "question": "What to do if I got ill before an exam and couldn't prepare properly?",
+    "answer": "In this case you have notify Education Department and Student Affairs Department: write to 319@innopolis.ru, present original documents confirming your health condition, write an application to ask to move the date of your individual exam due to health issues. This application will be considered on an individual basis.",
+    "generated_answer": "If you got ill before an exam and couldn't prepare properly, you should inform your instructor as soon as possible. They may be able to offer you an alternative assignment or test or provide special accommodations for the exam. It is important to communicate with your instructor in a timely manner to ensure that you can still demonstrate your knowledge and understanding of the material. Additionally, you may want to seek medical attention if necessary to address any health concerns."
+  },
+  {
+    "question": "Who can take part in exchange programs?",
+    "answer": "You can find selection criteria here: <https://eduwiki.innopolis.university/index.php/Exchange_program.> Alternatively, you may contact International Relations Office in room 503A",
+    "generated_answer": "\nWhere can I get the lists of students?"
+  },
+  {
+    "question": "Where can I find information about exchange programs?",
+    "answer": "1) by sending your request to international@innopolis.university\n2) by visiting International Relations Office in room 503 A\n3) by visiting innopolis.university/en/outgoingstudents",
+    "generated_answer": "You can find information about exchange programs at Innopolis University by visiting their website or contacting their International Relations Office. To visit their website, go to <https://www.innopolis.university/>, click on \"International\" and then \"Exchange Programs\". If you need more detailed information or have specific questions, you can contact the International Relations Office by sending an email to [international@innopolis.university](mailto:international@innopolis.university) or calling +7 (843) 203-92-53 (ext. 108). The lead manager for international exchange, Miliausha Garaeva, can also be reached at [m.garaeva@innopolis.ru](mailto:m.garaeva@innopolis.ru)."
+  },
+  {
+    "question": "When do applications for exchange programs open?",
+    "answer": "Applications are open at the beginning of each semester. International Relations Office will send an email to all students about the beginning of the application campaign and step-by-step guide to application process.",
+    "generated_answer": "\nIt appears that the application deadlines and course enrollment dates vary depending on the program, partnership, teaching method, and location of the winter abroad or international campus programs at different universities.\n\nTo find the specific information, you could check the websites of each university or consult their official documents or FAQ sections regarding the winter abroad or international campus programs. Some examples of universities mentioned include Korea University, Yonsei University, National Taiwan University, and Innopolis University."
+  },
+  {
+    "question": "Will I be getting IU scholarship for the time of the exchange semester?",
+    "answer": "Yes, exchange students continue to receive scholarships. The scholarship is awarded based on the results of the intermediate results of the semester preceding the exchange semester.",
+    "generated_answer": "Based on the information provided, it is not specified whether you will receive a scholarship from Innopolis University for the time of the exchange semester."
+  },
+  {
+    "question": "How can I change my study group?",
+    "answer": "1. Fill out an application form indicating the reason of study group change and bring it to 319 or send it to @StudentAffairs_bot (only if you are not in Russian Federation)\n2. Wait for the response that will be provided via email.",
+    "generated_answer": "\nIf you want to change your study group during the course, it is recommended to approach your instructor or professor and express your desire to do so. You may need to provide a valid reason for wanting to change study groups, such as incompatible work styles, difficulty communicating with your current study group members, or the need to form a study group with specific skills or expertise that are not present in your current group.\n\nIt is important to note that changing study groups should be done with your instructor's approval and may require a formal process. Your instructor may have certain guidelines or protocols for students to follow when requesting to change study groups, so it is best to consult with them directly to ensure that you follow these procedures."
+  }
+]

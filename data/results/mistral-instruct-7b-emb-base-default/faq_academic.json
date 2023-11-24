@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How do we pass Physical Education at Innopolis University?",
+    "answer": "Education Department sets a minimum of credit units required to pass a PE test. This information is depicted in Moodle. Student has to accumulate a certain number of attendance hours in Sports Complex of Innopolis, as well as has to pass the standards before the deadline.",
+    "generated_answer": "\nTo pass Physical Education at Innopolis University, a student must meet the minimum credit units required as set by the Education Department, which can be found in Moodle. In addition, the student must accumulate a certain number of attendance hours in the Sports Complex and successfully pass the standards before the deadline."
+  },
+  {
+    "question": "When can I start visiting the Sports Complex?",
+    "answer": "From the 1st of September, after you are officially enrolled.",
+    "generated_answer": "The provided context information does not contain any details regarding visiting a sports complex or its related activities."
+  },
+  {
+    "question": "When do we have retakes at Innopolis University?",
+    "answer": "Student is offered two retakes, the dates are scheduled by Education Department. Information is delivered to student's @innopolis.ru",
+    "generated_answer": "Retakes take place during the first week of the following semesters at Innopolis University."
+  },
+  {
+    "question": "What to do if I got ill before an exam and couldn't prepare properly?",
+    "answer": "In this case you have notify Education Department and Student Affairs Department: write to 319@innopolis.ru, present original documents confirming your health condition, write an application to ask to move the date of your individual exam due to health issues. This application will be considered on an individual basis.",
+    "generated_answer": "If you got ill before an exam and couldn't prepare properly, it's important to contact your instructor as soon as possible. They may be able to provide you with additional resources or accommodations to help you prepare for the exam. It's also worth checking the university's policies on exams and academic integrity to see if there are any provisions in place for students who are unable to attend an exam due to illness. Additionally, it may be helpful to consult with a member of the Student Support and Development Department to discuss your situation and explore potential options."
+  },
+  {
+    "question": "Who can take part in exchange programs?",
+    "answer": "You can find selection criteria here: <https://eduwiki.innopolis.university/index.php/Exchange_program.> Alternatively, you may contact International Relations Office in room 503A",
+    "generated_answer": "\nBased on the provided context information, it appears that students, faculty members, and researchers at Innopolis University have the opportunity to participate in exchange programs. However, details such as eligibility criteria, application process, and program requirements may vary depending on the specific program. It is recommended to refer to the guidelines and FAQ section for offering elective courses at Innopolis University (located at ../data/raw/raw_others_the_guidelines_%26_faq_for_offering_elective_courses_at_innopolis_university.md) or contact the university's relevant authorities for more information."
+  },
+  {
+    "question": "Where can I find information about exchange programs?",
+    "answer": "1) by sending your request to international@innopolis.university\n2) by visiting International Relations Office in room 503 A\n3) by visiting innopolis.university/en/outgoingstudents",
+    "generated_answer": "You can find information about exchange programs at Innopolis University by sending a request to the international office via email at international@innopolis.university or visiting their office in person located in room 503 A. You can also check their website for more details about outgoing student exchange programs at innopolis.university/en/outgoingstudents."
+  },
+  {
+    "question": "When do applications for exchange programs open?",
+    "answer": "Applications are open at the beginning of each semester. International Relations Office will send an email to all students about the beginning of the application campaign and step-by-step guide to application process.",
+    "generated_answer": "\nThe application deadlines and opening dates for each winter school are different and depend on the program and your citizenship. Please check the detailed information provided in the table for each winter school to determine when applications open."
+  },
+  {
+    "question": "Will I be getting IU scholarship for the time of the exchange semester?",
+    "answer": "Yes, exchange students continue to receive scholarships. The scholarship is awarded based on the results of the intermediate results of the semester preceding the exchange semester.",
+    "generated_answer": "Yes, based on the context information provided in the two files at `../data/raw/raw_faq_Academic.md`, it appears that exchange students continue to receive scholarships during their exchange semester at IU. The scholarship is awarded based on the results of the intermediate results of the semester preceding the exchange semester."
+  },
+  {
+    "question": "How can I change my study group?",
+    "answer": "1. Fill out an application form indicating the reason of study group change and bring it to 319 or send it to @StudentAffairs_bot (only if you are not in Russian Federation)\n2. Wait for the response that will be provided via email.",
+    "generated_answer": "You can change your study group by reaching out to the teacher or course administrator and expressing your interest in joining a different group. They may be able to assist you in finding an appropriate group that has not yet been formed or one that is a good fit for your interests and goals. It's also important to communicate with your current group members and let them know of your desire to change groups."
+  }
+]

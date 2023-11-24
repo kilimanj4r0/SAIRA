@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen.",
+    "generated_answer": "The provided context information does not contain specific instructions on how to connect to IU Wi-Fi. However, it mentions that \"ILOs\" (Internet Layer Options) are defined at three levels, which suggests that the process of connecting to IU Wi-Fi may involve configuring network settings at these different levels.\n\nTo provide a more accurate answer, you could specify the type of device you're using to connect to IU Wi-Fi and any relevant operating system or software details. Additionally, you could refer to the official documentation or support resources provided by Indiana University for specific instructions on connecting devices to their Wi-Fi network."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor.",
+    "generated_answer": "If you have lost your pass, there are several steps you can take to get it back or replace it. Firstly, contact the appropriate authorities (such as the police department) to report the loss of your pass. They will be able to issue a new one for you. If you are a student at Innopolis University, you should also contact the Student Support and Development Department, office 319, or the bot of this department to inform them about the loss of your pass and to follow the necessary procedures to get it back or replace it."
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion.",
+    "generated_answer": "\nBased on the provided context, it is not clear what specific dorm rules were violated or what consequences may have been imposed for failing to obey them. The text mentions the existence of rules and regulations regarding transferring, expelling, and reinstating students, but does not provide any information about the specific rules related to dormitories. \n\nIf you are concerned about potential consequences for failing to follow dorm rules, it may be best to consult with the relevant authorities or seek legal advice to understand your options."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room.",
+    "generated_answer": "As the provided context information does not mention anything about dorm room cleaning, I'm unable to provide an answer regarding that."
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/).",
+    "generated_answer": "In order to print something, you will need a printer and appropriate paper for printing. You can then connect your device (such as a computer or phone) to the printer using its available connectivity options, such as USB, Wi-Fi or Bluetooth. Once connected, you can open a print menu or application on your device, select the document you want to print, and adjust any print settings before selecting \"print\" or \"send to printer\". The document will then be sent to the printer for printing on paper. If you have difficulty printing, please consult the user manual for your printer or seek help from a technical support team."
+  }
+]
