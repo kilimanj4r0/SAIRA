@@ -9,6 +9,8 @@
 - 🧑‍💻 **Danil Andreev** (Python Developer)
 - 🧑‍💻 **Artem Batalov** (Dev&ML Ops)
 
+## [📋Report](report/report.pdf)
+
 ## [🖥️ Video Demo](https://youtu.be/KZKuOo5xT24)
 
 <p align="center">
