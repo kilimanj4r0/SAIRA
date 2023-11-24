@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen.",
+    "generated_answer": " Based on the given context information, here's the answer to the query \"How to connect to IU wi-fi?\"\n\nTo connect to Wi-Fi at IU, you should use the \"Innopolis\" network with the password \"Innopolis\". Additionally, students can also use the UniversityStudent network by inputting their email address with @innopolis.university domain and entering their password. You can also use Ethernet networks in your dorm rooms as well as in the kitchen (in 5 persons room).\n\nNote: The information provided is based on the given context, and there might be other ways to connect to IU Wi-Fi or additional requirements for specific networks."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor.",
+    "generated_answer": " Sure! Based on the given context information, here's the answer to your query:\n\nAnswer: You can restore your pass at the main reception desk on the first floor.\n\nAccording to the provided context information, the information you are looking for is located in the file \"raw_faq_Household.md\" and specifically in the section \"What shall I do if I lost my pass?\" The answer to this question is that you can restore your pass at the main reception desk on the first floor."
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion.",
+    "generated_answer": "Hello! Based on the context you provided, there might be consequences for failing to adhere to dormitory rules. These can include administrative violations noted in your personal profile and the possibility of expulsion. However, if you require more information or advice, you can contact the Student Support and Development Department at office 319 or the department's bot."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room.",
+    "generated_answer": "Using the provided context information and not relying on any prior knowledge, I can answer the following query:\n\nQuery: When are the dorm rooms cleaned?\n\nBased on the information provided in the \"raw_faq_Household.md\" file, the dorm rooms are cleaned according to a schedule planned by the accommodation administration. To confirm the cleaning time of your room, please visit the dorm administration on floor 1 of dorm 3."
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/).",
+    "generated_answer": " Based on the given context information and without any prior knowledge, I can provide the following answer to the query \"How do I print something?\":\n\n\"You can use the printer on the 5th floor of the building. You can find the printer in the link **Printable version** at the left column of the page. After you generate the printable version of the page, you may print it as usual.\"\n\nPlease note that this answer is based on the context information provided and may not be applicable to other situations or locations. Additionally, the printer location and the link to the printable version may vary depending on the specific situation and location."
+  }
+]
