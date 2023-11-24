@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What are innopoints?",
+    "answer": "Innopoints are a reward system for students engaging in extracurricular activities. They can be exchanged for merch, canteen services, and dorm accommodation.",
+    "generated_answer": "Innopoints are a reward system for students who participate in extracurricular activities at Innopolis University. Students can earn innopoints by volunteering, managing student clubs, or participating in other events and projects. Innopoints can be exchanged for merchandise, food, and accommodation on campus."
+  },
+  {
+    "question": "I volunteered at some event, how quickly will I get innopoints for that?",
+    "answer": "Innopoints for volunteering requests will be credited to your account within 14 calendar days.",
+    "generated_answer": "To answer the query, we need to use the information from the sources and apply some logical reasoning. Here are the steps to follow:\n\n- First, we need to identify which source contains the most relevant information for the query. In this case, it is the file_path: ../data/raw/raw_faq_Extracurricular.md, which has a section titled \"How can I volunteer and get innopoints?\".\n- Second, we need to extract the relevant information from that source. The passage says that after making a request, innopoints will fall to your account no later than in 14 calendar days. It also says that you can create your own project and close it on the website to get innopoints.\n- Third, we need to use some commonsense knowledge and infer that if you volunteer at an event that is published on ipts.innopolis.university, you will be able to close it on the website and get innopoints. Otherwise, you will have to make a request to get innopoints.\n- Fourth, we need to synthesize the information and infer the answer. Based on the passage and our inference, we can say that if you volunteer at an event that is published on ipts.innopolis.university, you will get innopoints within 14 calendar days of closing the event on the website. If you volunteer at an event that is not published on ipts.innopolis.university, you will have to make a request to get innopoints within 14 calendar days of the event date.\n\n### Final answer: Within 14 calendar days of closing or requesting innopoints."
+  },
+  {
+    "question": "How to create a student club?",
+    "answer": "Create a student club by visiting campuslife.innopolis.ru/clubs and clicking on 'Create my Club.' Contact [@VOSpiridonova](http://t.me/VOSpiridonova) for inquiries.",
+    "generated_answer": "To create a student club, you need to follow these steps:\n\n- Go to campuslife.innopolis.ru/clubs and click on \"Create my Club\" button.\n- Fill in the required information about your club, such as name, description, goals, activities, and audience.\n- Choose a club leader who will be responsible for managing the club, contacting @VOSpiridonova for questions and support, and applying for resource provision and promotion support.\n- Create a Telegram chat for your club where you can communicate with other members and share updates. You can find a template for creating a chat here: https://t.me/joinchat/DjhyZkBN-FmZStxTB40qwQ\n- Submit your club application and wait for confirmation from the university.\n\nBy creating a student club, you will be able to enjoy various benefits, such as learning more about yourself, developing soft skills, gaining networking opportunities, getting practical experience, engaging with diverse groups of people, having fun, expanding your CV, and giving back to the university"
+  },
+  {
+    "question": "How does the University support student clubs?",
+    "answer": "Student clubs can apply for resources, promotion support, and participate in the Club League for points. Top clubs receive budgets for purchases, claim Higher Scholarships, and earn innopoints. Contact [@VOSpiridonova](http://t.me/VOSpiridonova) for queries and suggestions.",
+    "generated_answer": "The University supports student clubs in various ways, such as:\n\n- Providing resource provision and promotion support for eligible clubs\n- Awarding top 20 clubs with a budget, a higher scholarship, and innopoints at the end of each semester\n- Offering a Club League system where clubs can earn points for different criteria\n- Assigning a student clubs advisor who can answer questions and suggestions\n- Hosting a website (campuslife.innopolis.ru/clubs) where students can create or join clubs easily\n- Advertising extracurricular opportunities through a telegram channel (@opportunitiesforyou)\n\n### Final answer: The University supports student clubs by providing resources, rewards, guidance, and publicity."
+  },
+  {
+    "question": "Can I create an event at Innopolis University?",
+    "answer": "Yes, form a team, plan the event stages, and fill the form on campuslife.innopolis.ru/events. Afterward, visit the 319 office.",
+    "generated_answer": "To answer the query, we need to look for relevant information in the context provided by the user. We can use keywords or phrases from the query to search for matching parts of the text. For example, we can use \"create\" and \"event\" as keywords to find sentences that contain them. \n\nOne possible sentence that matches our keywords is:\n\nCan I create an event at Innopolis University?\nYes. To do this, you need to form a team, plan all organization stages and fill the form on campuslife.innopolis.ru/events. After the form is filled please visit 319 office.\n\nThis sentence directly answers the query by giving a yes or no answer and some conditions for creating an event at Innopolis University. We can use this information to construct a brief final answer.\n\n"
+  },
+  {
+    "question": "How can I volunteer and get innopoints?",
+    "answer": "Explore volunteering opportunities on ipts.innopolis.university using your inno email. Create your project, confirm it with [@VOSpiridonova](http://t.me/VOSpiridonova), and after closing the event on the website, you'll earn innopoints.",
+    "generated_answer": "Hello, I am your personal assistant. I can help you find answers to your questions. What would you like to know today? \n"
+  },
+  {
+    "question": "How do I know more about extracurricular opportunities?",
+    "answer": "Visit campuslife.innopolis.ru and join [@opportunitiesforyou](https://t.me/opportunitiesforyou) channel for information on extracurricular opportunities.",
+    "generated_answer": "Hi there! If you are looking for extracurricular opportunities at Innopolis University, you can check out the FAQ section on the innopolis.university website. There you will find information on how to volunteer and earn innopoints, as well as other guidelines and details about offering elective courses. You can also contact the International Relations Office for more information.\n"
+  }
+]
