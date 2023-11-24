@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen.",
+    "generated_answer": "\nTo connect to IU wi-fi, you can follow these steps:\n\n1. Open the Wi-Fi settings on your device (smartphone, laptop, or tablet).\n2. Select \"IU\\_WiFi\" from the list of available networks.\n3. Enter the password \"IU\\_WiFi\\_Password\".\n4. Click \"Connect\" or \"Join\" to connect to the network.\n5. If prompted, enter your login credentials to access the internet through IU's network.\n\nIf you encounter any issues, please contact the IT department at your university for assistance. They can help you troubleshoot any connection problems and ensure that you have access to the necessary resources for your studies."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor.",
+    "generated_answer": "If you have lost your pass, you can restore it at the main reception desk on the first floor of Innopolis University."
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion.",
+    "generated_answer": "\nThe consequences for failing to obey the dorm rules can include:\n\n1. Loss of deposit: If you fail to abide by the dorm rules, the administration may deduct a portion of your security deposit. The exact amount will depend on the nature and severity of the violation.\n2. Eviction from the dorm: In serious cases where the rules are consistently broken or severe violations occur, you may be evicted from the dorm. This can result in losing your living space, as well as any belongings left in the dorm when you are evicted.\n3. Reporting to authorities: If your violation is particularly egregious or involves illegal activities, it could potentially lead to reporting to the authorities.\n4. Damage to personal property: In some cases, the consequences of violating dorm rules can result in damage to personal property, such as theft or vandalism.\n5. Negative impact on academic standing: Failing to abide by dorm rules can negatively impact your academic standing, particularly if you are already struggling academically. This can lead to additional challenges in maintaining your academic performance and achieving your goals.\n6. Reputational damage: Violating dorm rules can also have a negative impact on your reputation, both within the university community and beyond. It can be challenging to regain trust once a violation has occurred, particularly if it involves serious or repeated behavior."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room.",
+    "generated_answer": "The cleaning schedule for dorm rooms at Innopolis University is planned by the accommodation administration. To clarify the cleaning time of your room, please visit dorm administration on the 1st floor of the 3rd dorm or text @Inno\\_dorm."
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/).",
+    "generated_answer": "I'm sorry, but I cannot provide an answer to this question as it is too broad. There are many different ways to print something, depending on the programming language or system being used. Can you please provide more specific information or clarify your question?"
+  }
+]

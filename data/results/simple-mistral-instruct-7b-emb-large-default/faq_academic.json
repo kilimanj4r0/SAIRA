@@ -1,0 +1,47 @@
+[
+  {
+    "question": "How do we pass Physical Education at Innopolis University?",
+    "answer": "Education Department sets a minimum of credit units required to pass a PE test. This information is depicted in Moodle. Student has to accumulate a certain number of attendance hours in Sports Complex of Innopolis, as well as has to pass the standards before the deadline.",
+    "generated_answer": "To pass Physical Education at Innopolis University, you need to accumulate a certain number of attendance hours in the Sports Complex and meet the standards set by the Education Department. The exact number of credit units required to pass a PE test can be found in Moodle."
+  },
+  {
+    "question": "When can I start visiting the Sports Complex?",
+    "answer": "From the 1st of September, after you are officially enrolled.",
+    "generated_answer": "You can start visiting the Sports Complex from the 1st of September after you are officially enrolled."
+  },
+  {
+    "question": "When do we have retakes at Innopolis University?",
+    "answer": "Student is offered two retakes, the dates are scheduled by Education Department. Information is delivered to student's @innopolis.ru",
+    "generated_answer": "Retakes take place during the first week of the following semesters at Innopolis University."
+  },
+  {
+    "question": "What to do if I got ill before an exam and couldn't prepare properly?",
+    "answer": "In this case you have notify Education Department and Student Affairs Department: write to 319@innopolis.ru, present original documents confirming your health condition, write an application to ask to move the date of your individual exam due to health issues. This application will be considered on an individual basis.",
+    "generated_answer": "If you become ill before an exam and cannot prepare properly, you should notify both the Education Department and Student Affairs Department by writing to 319@innopolis.ru. You must present original documents that confirm your health condition, and submit an application to request moving the date of your individual exam due to health issues. The application will be considered on an individual basis."
+  },
+  {
+    "question": "Who can take part in exchange programs?",
+    "answer": "You can find selection criteria here: <https://eduwiki.innopolis.university/index.php/Exchange_program.> Alternatively, you may contact International Relations Office in room 503A",
+    "generated_answer": "You can find the eligibility criteria for taking part in exchange programs in the \"Eligibility criteria\" section of the article. It states that you are welcome to apply for an exchange program if you meet certain criteria, such as being a student at Innopolis University, meeting the required GPA, and checking the entry requirements of the partner university at its website. Additionally, it is mentioned that International Relations Office will assist you with questions throughout the whole program and help with preparation for the call."
+  },
+  {
+    "question": "Where can I find information about exchange programs?",
+    "answer": "1) by sending your request to international@innopolis.university\n2) by visiting International Relations Office in room 503 A\n3) by visiting innopolis.university/en/outgoingstudents",
+    "generated_answer": "You can find information about exchange programs by sending a request to international@innopolis.university, visiting the International Relations Office in room 503A or by checking innopolis.university/en/outgoingstudents."
+  },
+  {
+    "question": "When do applications for exchange programs open?",
+    "answer": "Applications are open at the beginning of each semester. International Relations Office will send an email to all students about the beginning of the application campaign and step-by-step guide to application process.",
+    "generated_answer": "Applications for exchange programs at Innopolis University open in the beginning of each semester."
+  },
+  {
+    "question": "Will I be getting IU scholarship for the time of the exchange semester?",
+    "answer": "Yes, exchange students continue to receive scholarships. The scholarship is awarded based on the results of the intermediate results of the semester preceding the exchange semester.",
+    "generated_answer": "Yes, exchange students continue to receive scholarships. The scholarship is awarded based on the results of the intermediate results of the semester preceding the exchange semester."
+  },
+  {
+    "question": "How can I change my study group?",
+    "answer": "1. Fill out an application form indicating the reason of study group change and bring it to 319 or send it to @StudentAffairs_bot (only if you are not in Russian Federation)\n2. Wait for the response that will be provided via email.",
+    "generated_answer": "\nTo change your study group for the BSc in English for Academic Purposes II course, you need to fill out an application form indicating the reason of the change and bring it to 319 or send it to `@StudentAffairs_bot` (only if you are not in Russian Federation). Once the application has been processed, you will receive a response via email.\n\nIt is important to note that changes to study groups may not be immediately possible, depending on the availability of open slots and the consent of your current group members. If there are no available spots or if your current group members do not agree to the change, the request may be denied. It's best to check with the Student Affairs office for more information and guidance."
+  }
+]

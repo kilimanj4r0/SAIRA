@@ -1,0 +1,117 @@
+[
+  {
+    "question": "What types of references do exist?",
+    "answer": "Transcript (Academic Records): Official confirmation of a student's grades, available in English or Russian based on preference. Reference on Studying: Standard confirmation of enrollment as a student at Innopolis University. Reference on Studying with Stipend: Similar to the above, but includes the scholarship amount, available in both Russian and English. Reference for the Military Department: Specifically for Russian citizens, used for military registration and enlistment. Characteristics Reference: Available only in Russian, often provided for military enlistment or official purposes. Not a recommendation letter. Grade List: Similar to a transcript but only available in Russian. Less official but quicker to produce, suitable for certain competitions. Scholarship Amount Statement: Details the scholarships received by a student, issued in Russian. Suitable for visa applications and income reporting. Dorm Expense Reference: Shows the sum paid for accommodation, in Russian. Useful for submission to housing authorities to reduce utility payments. Reference about Language of Study: Confirms the official study language at Innopolis University. Reference for Alumni: Confirms the study period of a graduate student.",
+    "generated_answer": "\nIn Innopolis University, several types of references are available. These include:\n\n1. Transcript (academic records) - an official confirmation of a student's grades, which can be issued in English or Russian. You can specify your preferred language in the comments.\n2. Reference on studying - a standard reference that confirms a student's enrollment at Innopolis University. This reference is available in both English and Russian.\n3. Reference for the military department - a reference for citizens of Russian Federation who need to register or enlist in the military.\n4. Characteristics reference - a document issued only in Russian, typically provided for official bodies such as the military enlistment office. This reference is not a recommendation letter but a personalized statement written by a referee, such as a professor.\n5. Grade list - a confirmation of a student's grades, similar to a transcript, but only available in Russian. It takes less time to produce than a transcript and can be useful for various purposes, including competition applications.\n6. Scholarship amount statement - a reference that shows the amount of scholarships paid to a student, issued in Russian language. This document is suitable for visa applications and income reporting.\n7. Dorm expense reference - a document that confirms the payment made by a student for their accommodation, issued in Russian language. It can be submitted to housing authorities to reduce utility payments.\n8. Reference about language of study - a reference that confirms the official language of study at Innopolis University.\n9. Reference for alumni - a document that verifies the study period of a graduate student."
+  },
+  {
+    "question": "How to order references?",
+    "answer": "You can order a reference on MyUniversity by selecting the right type of reference, amount of copies and for whom are you ordering it.",
+    "generated_answer": "You can order references on MyUniversity by selecting the right type of reference, amount of copies and for whom you are ordering it. For academic transcripts, academic references, scholarship amount statements, grade lists, and dorm expense references, you will need to wait 5 working days after placing your order before checking the reference box located in 319 hallway. However, for reference for military registration, you may arrive at 432 or contact d.ziatdinova@innopolis.ru after 7 working days of placing your order."
+  },
+  {
+    "question": "How long will it take to produce a reference?",
+    "answer": "It takes 5 working days to produce a reference from the moment it was ordered on my.university.",
+    "generated_answer": "It takes 5 working days to produce a reference from the moment it was ordered on MyUniversity."
+  },
+  {
+    "question": "If I cannot pick my reference, can somebody else collect it for me?",
+    "answer": "Yes. To do this, a student must write a letter of attorney. To collect the reference, a person must present their ID and a letter of attorney.",
+    "generated_answer": "Yes, if you are unable to pick your reference, you can ask someone else to collect it for you. However, you will need to write a letter of attorney and present it along with your ID when you go to the designated location to collect the reference. The letter of attorney template can be obtained in room 319 or by requesting @StudentAffairs\\_bot.\n\nTo order a reference on MyUniversity, you can select the type of reference you need (such as academic transcript, academic reference, etc.), specify the number of copies and who you are ordering it for. The production time and location to collect the reference will vary depending on the type of reference. For example, an academic transcript may take 7 working days to produce and can be collected at 432 or message d.ziatdinova@innopolis.ru. A scholarship amount statement, on the other hand, takes 5 working days to produce and can be collected at 319 hallway to check the reference box."
+  },
+  {
+    "question": "Can I get a reference in digital format?",
+    "answer": "No, references are produced in hard copy format only.",
+    "generated_answer": "Based on the provided file path and the context information, it appears that references are only produced in hard copy format and cannot be obtained in digital format."
+  },
+  {
+    "question": "Where can I get a copy/original document of my previous education?",
+    "answer": "To have a copy or the original document of your previous education, you need to write an application in room 319.",
+    "generated_answer": "You need to write an application in room 319 to get a copy or the original document of your previous education."
+  },
+  {
+    "question": "Where can I collect my academic transcript reference?",
+    "answer": "Academic transcripts are issued in room 432 during specific reception days: Tuesday (10:00-13:30), Wednesday (14:00-17:00), Thursday (10:00-13:30), and Friday (14:00-16:30).",
+    "generated_answer": "You can collect your academic transcript reference in room 432 during the following reception days and times:\n\n* Tuesday: 10:00-13:30\n* Wednesday: 14:00-17:00\n* Thursday: 10:00-13:30\n* Friday: 14:00-16:30\n\nIf you are unable to pick up your reference, you can ask someone else to do it for you. However, they must present their ID and a letter of attorney. You can obtain the letter of attorney template in room 319 or by requesting it through the Student Affairs\\_bot."
+  },
+  {
+    "question": "When are scholarships paid?",
+    "answer": "Scholarships are paid on the 25th of every month.",
+    "generated_answer": "According to the provided context information, scholarships are paid on the 25th of every month for raw_faq\\_Admin.md and exchange students continue to receive scholarships based on the results of the intermediate results of the semester preceding the exchange semester for raw_faq_Academic.md. Therefore, the payment schedule for scholarships may vary depending on the type of scholarship and the specific circumstances of each case. It is recommended to check with the appropriate authority or organization for more information on when your particular scholarship will be paid."
+  },
+  {
+    "question": "I want to leave Innopolis University, what shall I do?",
+    "answer": "The expulsion process consists of several steps: 1. Meeting with the Head of Student Affairs Department. 2. Application for expulsion. After steps 1 and 2, an expulsion order will be released. To start the process, please visit room 319. Important! In your grant agreement, there might be some points that will oblige you to pay a part of your grant back if you decide to leave the University at your discretion.",
+    "generated_answer": "\nIf you want to leave Innopolis University, you should follow the expulsion process outlined in your grant agreement. The process typically involves meeting with the Head of Student Affairs Department, submitting an application for expulsion, and waiting for an expulsion order to be released. It is important to note that there may be specific terms and conditions in your grant agreement that you should review before proceeding with the expulsion process.\n\nAdditionally, it's worth noting that leaving Innopolis University may have financial implications, as your grant agreement may include provisions related to paying back a portion of your grant if you leave on your discretion. Therefore, it is important to carefully review your grant agreement before making any decisions about leaving the university."
+  },
+  {
+    "question": "How may I know how long I will need to work for a resident company?",
+    "answer": "Answer to this question is given individually. Inbox 319@innopolis.ru, state your name and surname, and await a response from the Resource Centre.",
+    "generated_answer": "To determine how long you will need to work for a resident company, you should contact the Resource Center of the company where you have been offered employment. They can provide you with information on the terms of your contract and any specific requirements that may apply to your position. You can reach out to them via email at inbox 319@innopolis.ru and provide your name and surname. The Resource Center will respond to your inquiry and provide you with the necessary information."
+  },
+  {
+    "question": "How to get full access to my account on my.university?",
+    "answer": "Please message @StudentAffairs_bot.",
+    "generated_answer": "To get full access to your account on my.university, you can message @StudentAffairs\\_bot."
+  },
+  {
+    "question": "Why is my profile at my.university not approved? Can I somehow speed up the process?",
+    "answer": "The profiles are being approved on a first-come-first-serve basis. Please await, efforts are being made to expedite the process.",
+    "generated_answer": "\nIt seems like your profile at my.university is being approved on a first-come, first-served basis. Since your question is about speeding up the approval process, it is important to note that it may not be possible to do so as the approval process is likely to have a set timeline and workflow that cannot be altered.\n\nHowever, if you are concerned about the status of your profile, you can try reaching out to the Student Affairs team through their official email address or social media channels to inquire about its status. They may be able to provide you with an update on when you can expect your profile to be approved.\n\nIn any case, it's important to remember that the approval process is necessary for security purposes and ensuring that only legitimate users are granted access to the platform. Therefore, while waiting for your profile to be approved, try to be patient and understand that the process may take some time."
+  },
+  {
+    "question": "Do we have a military-related course at Innopolis University?",
+    "answer": "At the moment - not.",
+    "generated_answer": "According to the provided file_path ../data/raw/raw_faq_Admin.md, Innopolis University does not currently offer any military-related courses."
+  },
+  {
+    "question": "Why do I need to be registered for military services?",
+    "answer": "Russian law states that citizens must be registered for military services unless exempted or meeting specific criteria. Failure to register if not exempt can lead to administrative liability.",
+    "generated_answer": "In order to be able to obtain a temporary registration for the purpose of studying at Innopolis University, you are required to register for military service according to Russian law and the rules of the university. The university requires this information to comply with its obligations under Russian law. Additionally, obtaining military service registration may also be necessary in order to be eligible for certain benefits or accommodations during your time at the university."
+  },
+  {
+    "question": "What types of scholarships do exist?",
+    "answer": "Several scholarships exist, including academic, state academic, social, higher academic scholarships, and presidential/governmental scholarships, each with different eligibility criteria.",
+    "generated_answer": "\nAccording to the provided file_path:\n\n* ACADEMIC SCHOLARSHIP assigned based on the final exam results\n* HIGHER ACADEMIC SCHOLARHIP assigned based on the results of the previous two periods, all grades must be \u00abA\u00bb and \u00abP\u00bb\n* HIGHER SCHOLARSHIP - assigned for special achievements in extracurricular life via application form on my.university - assigned to students, who do not have a grade \u00abF\u00bb and academic debts at last period\n* STATE ACADEMIC SCHOLARSHIP (for state-funded students) assigned to students, who do not have a grade \u00abF\u00bb and academic debts at last period\n* HIGHER STATE ACADEMIC SCHOLARSHIP (for state-funded students) assigned for special achievements in extracurricular life (research, social, spprt, cultural, arts)\n* STATE SOCIAL SCHOLARSHIP (for state-funded students) assigned in accordance with decree about scholarships and other forms of material support\n* HIGHER STATE SOCIAL SCHOLARSHIP (for state-funded students) assigned to 1st and 2nd year students, all grades must be \u00abexcellent\u00bb and \u00abgood\u00bb, belonging to the category, which enables to claim state social scholarship\n* PRESIDENTIAL AND GOVERMENTAL SCHOLARSHIP assigned to students meeting the criteria approved by the president and the governmet."
+  },
+  {
+    "question": "Can I reimburse my expenses for travelling to a conference, competition, etc.?",
+    "answer": "Expenses for events outside IU (conferences, etc.) can be reimbursed after application and providing proof of participation and expenses. Reimbursement depends on the Commission's decision.",
+    "generated_answer": "You can only be reimbursed for travel expenses after providing participation proofs and it is up to the discretion of the Commission panel to approve your reimbursement application. If your application is approved or partially approved, you must fill an application form, attach supporting documents and submit required proof (i.e. travel tickets) to 319 office for further processing."
+  },
+  {
+    "question": "How can I transfer to a state-funded place?",
+    "answer": "To transfer to a state-funded place, check availability, meet eligibility criteria based on grades, achievements, or specific circumstances, then fill out an application and submit supporting documents.",
+    "generated_answer": "To transfer to a state-funded place, you need to follow these steps:\n\n1. Expect information in the official channel of your course or ask about vacant state-funded places in the Office 319 or via @StudentAffairs\\_bot.\n2. To be transferred to a state-funded place, you need to meet one of the conditions mentioned in the official channel. These conditions include:\n* Your grades for the exams of the last two semesters are \"A\", \"B\", or \"P\".\n* You belong to certain categories such as orphans and children left without parental care, citizens under the age of twenty who have only one parent - a disabled person of group I, if the average per capita income of the family is below the minimum subsistence level established in the corresponding region of the Russian Federation, women who gave birth to a child during the period of study, or loss of one or both parents (legal representatives) by a student during the period of study.\n3. If you meet the conditions and there is a state-funded place available for you, you will need to fill in an application with supporting documents that prove your eligibility under the given conditions.\n4. Wait for the decision of the Committee. You'll receive the answer to your email address."
+  },
+  {
+    "question": "How can I order a European Supplement?",
+    "answer": "To order a European Diploma Supplement, complete an application, pay the administration fee, then bring the completed application and receipt to room 319 or contact @StudentAffairs_bot.",
+    "generated_answer": "\nTo order a European Supplement, you will need to fill out an application and pay the necessary administration fee. Once the application and administration fee have been processed, you may bring the completed application with your administration fee receipt to either 319 or send it to @StudentAffairs\\_bot. It is important to note that the European Diploma Supplement is only issued to graduates of Innopolis University, and cannot be obtained before receiving your diploma of education."
+  },
+  {
+    "question": "What obligations do I have once leaving the University?",
+    "answer": "When leaving the University, complete the checkout list by visiting IU departments (e.g., IT, library) to clear debts and return IU properties. Bring the completed list, student card, and pass to room 319.",
+    "generated_answer": "Once leaving the University, you are required to go through a process with the IT department, library, and other structural divisions to ensure that you have no outstanding debts and that all IU properties are returned. You must bring your completed checkout list along with your student card and student pass to room 319 for this purpose."
+  },
+  {
+    "question": "I'm not in my course telegram channel, what can I do?",
+    "answer": "Message @StudentAffairs_bot to be added to your course channel.",
+    "generated_answer": "\nYou can message @StudentAffairs\\_bot to be added to your course channel. If you are an alumni of UI, you can also find employment supports and educational opportunities for alumni by checking the alumni channel in telegram or visiting the My Uni portal."
+  },
+  {
+    "question": "What are the working hours of 319 office?",
+    "answer": "Monday to Friday from 14:00 to 18:00",
+    "generated_answer": "According to the provided context information in the file_path ../data/raw/raw_faq_Admin.md, the working hours of 319 office are from Monday to Friday from 14:00 to 18:00."
+  },
+  {
+    "question": "How to transfer to a state-funded place? What are the steps? / \u041a\u0430\u043a \u043f\u0435\u0440\u0435\u0432\u0435\u0441\u0442\u0438\u0441\u044c \u043d\u0430 \u0431\u044e\u0434\u0436\u0435\u0442? \u041a\u0430\u043a\u0438\u0435 \u0448\u0430\u0433\u0438 \u043c\u043d\u0435 \u043d\u0443\u0436\u043d\u043e \u043f\u0440\u0435\u0434\u043f\u0440\u0438\u043d\u044f\u0442\u044c?",
+    "answer": "To transfer to a state-funded place, get information on availability, meet eligibility criteria, submit an application with supporting documents, and await the Committee's decision.",
+    "generated_answer": "To transfer to a state-funded place, you need to follow these steps:\n1. Check the availability of a state-funded place in your course at 319 or via @StudentAffairs\\_bot.\n2. Clarify eligibility criteria:\n* Your grades from the previous two semesters are \"A\" or/and \"B\". You can prove your eligibility by providing an extract from the grade book.\n* You have extracurricular achievements (RESEARCH, SOCIAL, SPORT, CULTURAL, ARTS). You can prove your eligibility by providing relevant diplomas and certificates.\n* You have special circumstances. In this case see 319 to clarify your eligibility.\n3. Write an application with supporting documents attached. The application should be submitted to the appropriate office or person responsible for managing state-funded places in your course. Make sure to attach all required documents, such as grade lists, certificates, and diplomas.\nNote that the steps may vary depending on the specific requirements of your university or institution. It is always a good idea to check with the relevant authorities to confirm the process and ensure that you meet all necessary criteria."
+  },
+  {
+    "question": "Can the University cover the expenses for participation in a conference, hackathon, olympiad, etc.?",
+    "answer": "Yes, you can apply for expense reimbursement for events outside IU via the university portal, following specific steps and providing necessary documents.",
+    "generated_answer": "Based on the provided context information from the file \"raw\\_faq\\_Admin.md\", the University can cover expenses for participation in conferences, hackathons, and other events outside of IU. However, there are certain conditions that need to be met. The application should be submitted within one month after the end date of the event, and all necessary information about the event and expenses must be provided in the application form. If the application is approved, documents confirming the expenses must also be provided after the event.\n\nIt's worth noting that only expenses made by the students themselves will be compensated, and not expenses made by third parties. Additionally, the decision on whether to reimburse expenses is made on an individual basis based on marks, disciplinary comments, and other factors."
+  }
+]
