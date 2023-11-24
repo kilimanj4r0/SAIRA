@@ -1,0 +1,22 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor."
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room."
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/)."
+  }
+]
