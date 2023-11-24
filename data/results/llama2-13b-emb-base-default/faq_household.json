@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen.",
+    "generated_answer": "Based on the given context information, here is the answer to the query \"How to connect to IU wi-fi?\"\n\nTo connect to IU Wi-Fi, you can follow these steps:\n\n1. Open your computer's wireless network settings by clicking on the Wi-Fi icon in your system tray (usually located in the bottom right corner of your screen).\n2. Select \"IU-Secure\" from the list of available networks.\n3. Click \"Connect\" to join the network.\n4. Open a web browser and navigate to the IU Wi-Fi login page (<https://its.iu.edu/ wireless/login/>).\n5. Enter your IU username and password to log in.\n6. Once you are logged in, you should be able to access the internet using the IU Wi-Fi network.\n\nIf you have any technical questions or issues with connecting to the IU Wi-Fi network, you can contact @Iuithelp for assistance. They will be able to help you with any technical questions or issues you may have."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor.",
+    "generated_answer": "  Based on the provided context information, there is no mention of a pass or losing one. The context is related to a retake exam and sections for signals and systems. Therefore, there is no relevant answer to the query \"What shall I do if I lost my pass?\" as it does not apply to the context provided."
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion.",
+    "generated_answer": "Based on the provided context information, it is likely that the course is related to system and network administration, and the instructor is asking about the potential consequences of not following dorm rules. Here are some possible answers to the query:\n\n1. Loss of privileges: If you fail to obey dorm rules, you may lose certain privileges, such as the ability to use the dorm's computer lab or access certain network resources.\n2. Disciplinary action: Depending on the severity of your infraction, you may face disciplinary action, such as a warning, probation, or even suspension or expulsion from the dorm.\n3. Negative impact on academic performance: If you are not following dorm rules, you may be distracted or unable to focus on your studies, which could negatively impact your academic performance.\n4. Damage to reputation: If you violate dorm rules and it becomes known among your peers, it could damage your reputation and make it harder for you to establish yourself as a responsible and respectful member of the community.\n5. Legal consequences: Depending on the specific rule you violated, there may be legal consequences, such as fines or even criminal charges."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room.",
+    "generated_answer": " Based on the provided context information, there is no mention of dorm rooms or cleaning schedules. The context only provides information about a course in nonlinear control theory and the evaluation methods for the course. Therefore, I cannot answer the query \"When are the dorm rooms cleaned?\" as it is not relevant to the provided context."
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/).",
+    "generated_answer": "Hi there! Based on the context you provided, it seems like you're looking for help with printing something in your program. Here's the answer to your query:\n\nTo print something in a program, you can use the `print()` function in Python. Here's an example of how to do it:\n```\nprint(\"Hello, world!\")\n```\nThis will output the string \"Hello, world!\" to the console.\n\nIf you want to print multiple things at once, you can use a list or a tuple as an argument to `print()`. For example:\n```\nprint([\"apple\", \"banana\", \"orange\"])\n```\nThis will output the list [\"apple\", \"banana\", \"orange\"] to the console.\n\nI hope this helps! Let me know if you have any other questions."
+  }
+]
