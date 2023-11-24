@@ -1,8 +1,0 @@
-My University
-To get  access to your personal account, please,
-login through the Innopolis University single sign-on service.
-
-Use your student email and password.
-
-In case of problems with authorization process,
-please contact it@innopolis.ru.
