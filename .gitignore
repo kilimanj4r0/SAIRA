@@ -161,6 +161,6 @@ cython_debug/
 
 report-template/*
 data/documents/raw/*
-index/*
+storage/*
 .DS_Store
 

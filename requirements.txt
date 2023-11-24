@@ -4,3 +4,5 @@ transformers
 beautifulsoup4
 requests
 urllib3
+chromadb
+llama_hub
