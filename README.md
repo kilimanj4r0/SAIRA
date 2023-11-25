@@ -1,23 +1,57 @@
 # SAIRA: Student Affairs AI Response Assistant
+
+<h3 align="center">
+<a href="Add link to streamlit"> 🔥 Streamlit Demo </a>|
+<a href="./report/report.pdf"> 📋 Report </a>|
+<a href="https://youtu.be/KZKuOo5xT24"> 🖥️ Video Demo </a>
+</h3>
+
 <p align="center">
 <img src="report/saira.png" alt="Saira" width="200"/>
 </p>
 
-### ✊ Team
+## ✊ Team
 - 🧑‍💻 **Vladimir Makharev** (Team Lead)
 - 🧑‍💻 **Evgenii Evlampev** (ML Engineer)
 - 🧑‍💻 **Danil Andreev** (Python Developer)
 - 🧑‍💻 **Artem Batalov** (Dev&ML Ops)
 
-## [📋Report](report/report.pdf)
+## 🚀 Getting Started
 
-## [🖥️ Video Demo](https://youtu.be/KZKuOo5xT24)
+1. **Install requirements**
 
-<p align="center">
-<a href="https://www.youtube.com/watch?v=KZKuOo5xT24">
-<img src="https://img.youtube.com/vi/KZKuOo5xT24/0.jpg" alt="Video Demo"/>
-</a>
-</p>
+   Clone the repository:
+   ```bash
+   git clone https://github.com/kilimanj4r0/SAIRA.git
+   cd SAIRA
+   ```
+
+   Install requirements via pip:
+   ```bash
+   pip install -r requirements.txt
+   CMAKE_ARGS="-DLLAMA_CUBLAS=on" pip install llama-cpp-python
+   ```
+
+2. **Install Ollama** (to reproduce results from [2.0-solution-rag-ollama.ipynb](notebooks/2.0-solution-rag-ollama.ipynb))
+
+   [Download ollama](https://ollama.ai/download), then run ollama server:
+   ```bash
+   ollama serve
+   ```
+
+   Download models:
+
+   ```bash
+   ollama pull llama2:13b
+   ollama pull mistral
+   ollama pull orca2:13b
+   ```
+
+3. **Run demo**
+   ```bash
+   cd demo-streamlit
+   streamlit run demo.py
+   ```
 
 ## 📌 Introduction
 
@@ -48,19 +82,3 @@ Students can inquire about:
 3. **Redirection (if necessary)**: In case the bot deems a question too complex or unsuitable, it triggers the redirection mechanism.
 
 4. **Feedback Collection**: After receiving an answer, students have an option to provide feedback on the bot's response.
-
-## 🚀 Getting Started
-
-1. **Installation**:
-   ```bash
-   git clone https://github.com/kilimanj4r0/SAIRA.git
-   cd SAIRA
-   pip install -r requirements.txt
-   CMAKE_ARGS="-DLLAMA_CUBLAS=on" pip install llama-cpp-python
-   ```
-
-2. **Run demo**:
-   ```bash
-   cd demo-streamlit
-   streamlit run demo.py
-   ```
