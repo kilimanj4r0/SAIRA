@@ -6,3 +6,7 @@ requests
 urllib3
 chromadb
 llama_hub
+evaluate
+rouge_score
+bert_score
+nltk

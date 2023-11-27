@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen.",
+    "generated_answer": "---\n\nTo connect to the IU wifi, you can follow these steps:\n\n1. Connect to the \"Innopolis\" network with the password \"Innopolis\".\n2. Alternatively, students can also use the \"UniversityStudent\" network by inputting their email address with @innopolis.university domain and entering their password.\n3. Dorm rooms and kitchens in 5-person rooms have Ethernet networks available for use.\n\n---\n\nAdditionally, there are various channels for communication and resources available to IU students:\n\n* Student Union: for finding interesting events.\n* InfoSharing: chat with useful learning materials (requires approval).\n* Lost and Found: for reporting lost or found items.\n* Ads about campus life: for staying informed about important announcements.\n* Innopolis Library: access to resources and study spaces.\n* Technical support: contact @Iuithelp for projectors, internet, wifi issues or contact <furniture@innopolis.university> for furniture, markers, lights, A/C etc.\n* Requests to Students Affairs: <studentaffairs@innopolis.ru>\n* Requests to Departament of Education: <doe@innopolis.university>."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor.",
+    "generated_answer": "```css\nYou can restore your pass at the main reception desk on the first floor.\n```\n"
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion.",
+    "generated_answer": "\n**Question**: What may be the consequence of my failure to obey dorm rules?\n\n**Answer**: If you fail to obey dorm rules, administrative violation may be recorded in your personal profile. The consequences could include a warning, official reprimand, or even expulsion from the dormitory. It's essential to familiarize yourself with the regulations on expulsion and reinstatement as outlined in the \"Regulations on the procedure and grounds for transferring, Expelling and reinstating students and granting academic leave to students in the Autonomous Non-profit Organization of Higher Education 'Innopolis University'\", which can be found at the link provided. If you require further information or advice, you may contact the Student Support and Development Department through their office (319) or the bot associated with the department."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room.",
+    "generated_answer": "The cleaning schedule for dorm rooms is planned by the accommodation administration. To clarify the specific cleaning time for your room, please visit the dorm administration office located in dorm 3, floor 1."
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/).",
+    "generated_answer": "---\n\nTo print something, you can follow these steps:\n\n1. Take your computer to the 5th floor of the building.\n2. Use the printer on the 5th floor. You can use the bot `@innoprintbot` for printing. If you don't know how to use the printer, please contact `ithelp@innopolis.university`.\n3. Alternatively, if you want to print a specific page in PDF format, you can use the link **Printable version** located at the left column of the page. Once the page is generated, you may print it as usual.\n\nPlease note that these instructions assume you have access to a computer and are in a location where you can physically take your computer to a printer on the 5th floor. If this is not the case, please refer to your specific situation or consult with someone who has more information about your printing options."
+  }
+]

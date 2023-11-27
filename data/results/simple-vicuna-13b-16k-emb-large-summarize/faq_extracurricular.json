@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What are innopoints?",
+    "answer": "Innopoints are a reward system for students engaging in extracurricular activities. They can be exchanged for merch, canteen services, and dorm accommodation.",
+    "generated_answer": " Innopoints are a reward system for students who actively participate in extracurricular activities at Innopolis University. Students can earn innopoints by volunteering or managing student clubs, and these points can be exchanged for branded merchandise, monthly accommodation, and meals. To volunteer and earn innopoints, students can find opportunities on ipts.innopolis.university and agree to a project with the university's VOSpiridonova. Innopoints will be credited to a student's account within 14 calendar days after requesting them for volunteering at an event."
+  },
+  {
+    "question": "I volunteered at some event, how quickly will I get innopoints for that?",
+    "answer": "Innopoints for volunteering requests will be credited to your account within 14 calendar days.",
+    "generated_answer": "After volunteering at an event, you will receive innopoints within 14 calendar days. To earn innopoints, make sure to log in on ipts.innopolis.university using your inno email and close your event on the website. Innopoints are a motivation and reward system for students who actively participate in extracurricular activities and can be exchanged for branded merchandise, canteen services, and accommodation in IU dorms.\n\nIf you want to volunteer at events, check out the opportunities available on ipts.innopolis.university. You can also create your own project by agreeing with @VOSpiridonova before closing the event on the website. Keep in mind that the innopoints system is designed to reward students for their outstanding contribution to extracurricular life."
+  },
+  {
+    "question": "How to create a student club?",
+    "answer": "Create a student club by visiting campuslife.innopolis.ru/clubs and clicking on 'Create my Club.' Contact [@VOSpiridonova](http://t.me/VOSpiridonova) for inquiries.",
+    "generated_answer": "You can create a student club at campuslife.innopolis.ru/clubs by clicking on \"Create my Club\" button. For questions please contact @VOSpiridonova."
+  },
+  {
+    "question": "How does the University support student clubs?",
+    "answer": "Student clubs can apply for resources, promotion support, and participate in the Club League for points. Top clubs receive budgets for purchases, claim Higher Scholarships, and earn innopoints. Contact [@VOSpiridonova](http://t.me/VOSpiridonova) for queries and suggestions.",
+    "generated_answer": "The University supports student clubs in several ways. Firstly, they can apply for resource provision, such as audience and basic inventory/equipment. Secondly, the University promotes these clubs through various means. Thirdly, the top 20 clubs receive a budget at the end of every semester, which they can spend on relevant purchases or services. Additionally, club leaders of the top 20 clubs can claim points for a higher scholarship and innopoints at the end of the academic year. Lastly, students can contact @VOSpiridonova with any questions or suggestions regarding student clubs."
+  },
+  {
+    "question": "Can I create an event at Innopolis University?",
+    "answer": "Yes, form a team, plan the event stages, and fill the form on campuslife.innopolis.ru/events. Afterward, visit the 319 office.",
+    "generated_answer": "It appears that you can create an event at Innopolis University by forming a team, planning all organization stages, and filling out the form on campuslife.innopolis.ru/events. After the form is filled, please visit 319 office. To propose an elective course, you need to provide information about the course title, short description, prerequisites, intended learning outcomes, and list of topics that will be covered during the course. The deadline for proposing a course for the Summer term 2022 is April 10th, and for the Fall term 2022 is June 15th. Please send your proposals to [bmp@innopolis.university](mailto:bmp@innopolis.university) or message @VOSpiridonova if you have any questions. To volunteer and earn innopoints, opportunities are published on ipts.innopolis.university, and you can create your own project by preliminarily agreeing it with @VOSpiridonova. If your elective course is chosen by the students, you will need to submit a CV and other documents, do an interview, and deliver a lecture or lab to demonstrate your teaching skills and knowledge of the subject. Innopolis University typically covers travel and other costs related to participation in educational activities and events at the university. Details and limits are specified in the agreement."
+  },
+  {
+    "question": "How can I volunteer and get innopoints?",
+    "answer": "Explore volunteering opportunities on ipts.innopolis.university using your inno email. Create your project, confirm it with [@VOSpiridonova](http://t.me/VOSpiridonova), and after closing the event on the website, you'll earn innopoints.",
+    "generated_answer": "\n1. Check available volunteering opportunities on ipts.innopolis.university using your inno email.\n2. Create your own project by preliminarily agreeing it with @VOSpiridonova.\n3. After closing the event on the website, innopoints will be granted to you within 14 calendar days.\n\nInnopoints can be exchanged for branded merch, monthly accommodation and meals. Click here to visit the InnoStore!"
+  },
+  {
+    "question": "How do I know more about extracurricular opportunities?",
+    "answer": "Visit campuslife.innopolis.ru and join [@opportunitiesforyou](https://t.me/opportunitiesforyou) channel for information on extracurricular opportunities.",
+    "generated_answer": "To learn more about extracurricular opportunities at Innopolis University, you can visit campuslife.innopolis.ru and join the @opportunitiesforyou channel. You can also join student clubs to develop soft skills, gain networking opportunities, practical experience, engage with diverse groups of people, take a break from studies, expand your CV, give back to the university, and have fun.\nIf you are interested in creating a student club or attending elective courses as a free listener, contact Evgeniia Dyuzhakova (@janedyuzha\\_dyuzha), Student Clubs Advisor.\nFor more information on employment supports and educational opportunities for alumni, visit the My Uni portal and check academic mobility programs and short-term summer/winter schools available for students. You can also attend exchange programs at partner universities to expand your academic perspective, explore new places and cultures, create international networks, and stand out to potential employers.\nFor further information on extracurricular opportunities, you may refer to the following file paths: ../data/raw/raw\\_faq\\_Extracurricular.md, ../data/raw/raw\\_clubs\\_clubs.md, and ../data/raw/raw\\_others\\_employment\\_supports\\_and\\_educational\\_opportunities\\_for\\_alumni.md"
+  }
+]

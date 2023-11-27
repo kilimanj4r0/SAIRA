@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen.",
+    "generated_answer": "To connect to wifi at Innopolis University, you can use the \"Innopolis\" network with the password \"Innopolis\". Students can also use the \"UniversityStudent\" network by inputting their email address with the \"@innopolis.university\" domain and entering their password. You can also use the Ethernet network in your dorm rooms, as well as in the kitchen of a 5-person room. Additionally, you can find helpful links for IU students on the Newsboard, Channels, and Groups page, including links to the Student Union, InfoSharing, Lost and Found, Innopolis Library, technical support, requests to Students Affairs and Department of Education, among others."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor.",
+    "generated_answer": "\nIf you have lost your pass, you can restore it at the main reception desk on the first floor. You can also find more information and advice by contacting the Student Support and Development Department, office 319 or the bot of this department. It is important to abide by migration control regulations to avoid penalties or possible deportation if you are an international student. If you have any questions, you can join the International students' telegram channel or text @Daria\\_cider for more information. If you fail to upload required documents on time, you will pay a late fee of 2000 rubles yourself in Migration department of Verkhny Uslon. Two failures will lead to your deportation. So please pay attention to the expiration date of your documents!"
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion.",
+    "generated_answer": "Administrative violation is recorded in student's personal profile. The consequences might be: warning, official reprimand, expulsion. Additionally, if a student is found to have committed misconduct for the first time, they shall receive zero points for the particular work (assignment/exam/test/homework). If it happens for the second time, the student will receive zero points for the course or courses and be sent to retake. An official warning will also be issued. If a student commits misconduct for the third time (without respect to the course), they shall be expelled from Innopolis University. In case of grievous nature, a student might be subject to additional actions on the part of the professor or DoE in order to maintain class order, have recompense of the action, or in order to learn a proper scholarly methodology.\nIt is also important for international students to abide by IU migration rules and ensure their presence in Russia is legal. If a student does not upload required documents on time, they will pay \"late fee\" worth 2000 rubles YOURSELF in Migration department of Verkhny Uslon. Two failures will lead to deportation."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room.",
+    "generated_answer": "```vbnet\nWhen are the dorm rooms cleaned?\nThe cleaning schedule is planned by accommodation administration. To clarify the cleaning time of your room, please visit dorm administration on dorm 3, floor 1 or contact @Inno_dorm for further information.\n```"
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/).",
+    "generated_answer": "To print something on your computer, you can use the printer on the 5th floor of Innopolis University. You can use the @innoprintbot for printing. If you don't know how to use the printer, please contact ithelp@innopolis.university."
+  }
+]

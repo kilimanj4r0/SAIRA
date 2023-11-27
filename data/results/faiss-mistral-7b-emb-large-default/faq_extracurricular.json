@@ -1,0 +1,37 @@
+[
+  {
+    "question": "What are innopoints?",
+    "answer": "Innopoints are a reward system for students engaging in extracurricular activities. They can be exchanged for merch, canteen services, and dorm accommodation.",
+    "generated_answer": "Innopoints are a motivation and reward system for students who actively participate in extracurricular activities at IU. They are awarded for tasks such as volunteering and managing student clubs. Innopoints can be exchanged for various items such as branded merch, canteen services, and accommodation in IU dorms. The Innopoints system is designed to reward students for their outstanding contribution to extracurricular life."
+  },
+  {
+    "question": "I volunteered at some event, how quickly will I get innopoints for that?",
+    "answer": "Innopoints for volunteering requests will be credited to your account within 14 calendar days.",
+    "generated_answer": "According to the information provided in the file_path: ../data/raw/raw_faq_Extracurricular.md, after making a request, innopoints will fall to your account no later than 14 calendar days. Therefore, if you have already volunteered at an event and made a request for innopoints, you should receive them within 14 days."
+  },
+  {
+    "question": "How to create a student club?",
+    "answer": "Create a student club by visiting campuslife.innopolis.ru/clubs and clicking on 'Create my Club.' Contact [@VOSpiridonova](http://t.me/VOSpiridonova) for inquiries.",
+    "generated_answer": "\nTo create a student club at Innopolis University, you can follow these steps:\n\n1. Go to the campuslife.innopolis.ru/clubs website and click on the \"Create my Club\" button.\n2. Fill out the required information about your club, such as its name, description, goals, and activities. You will also need to specify which faculty or department your club is associated with.\n3. Submit the form and wait for approval from the University administration.\n4. Once your club is approved, you can start organizing meetings, events, and other activities. You may also want to consider recruiting members and electing officers to lead the club.\n5. As an active member of the club, you will have the opportunity to learn more about yourself, develop soft skills, gain practical experience, network with other students, expand your CV, give back to the University, and have fun.\n6. If you have any questions or need further assistance, you can contact Evgeniia Dyuzhakova, Student Clubs Advisor at @janedyuzha_dyuzha."
+  },
+  {
+    "question": "How does the University support student clubs?",
+    "answer": "Student clubs can apply for resources, promotion support, and participate in the Club League for points. Top clubs receive budgets for purchases, claim Higher Scholarships, and earn innopoints. Contact [@VOSpiridonova](http://t.me/VOSpiridonova) for queries and suggestions.",
+    "generated_answer": "The University supports student clubs by providing them with resources such as audience and basic inventory/equipment, promoting their activities, and organizing the Club League where students earn points for various criteria. Additionally, the top 20 clubs receive a budget at the end of every semester which they can use on relevant purchases or services. Club leaders of these top 20 clubs can also claim points for a Higher Scholarship every semester and innopoints in the end of academic year. For questions and suggestions, you can contact Evgeniia Dyuzhakova, @janedyuzha_dyuzha, Student Clubs Advisor."
+  },
+  {
+    "question": "Can I create an event at Innopolis University?",
+    "answer": "Yes, form a team, plan the event stages, and fill the form on campuslife.innopolis.ru/events. Afterward, visit the 319 office.",
+    "generated_answer": "\nBased on the provided file_path for raw\\_faq\\_Extracurricular.md, it appears that you can create an event at Innopolis University by forming a team, planning all organization stages, and filling out the form on campuslife.innopolis.ru/events. After submitting the form, you will need to visit the 319 office for further processing.\n\nHowever, it is important to note that the context information provided does not specifically address the creation of events at Innopolis University. It instead focuses on proposing elective courses and their requirements. If you have any questions or clarification about creating an event at Innopolis University, it might be helpful to refer to other resources or directly contact the university for further assistance."
+  },
+  {
+    "question": "How can I volunteer and get innopoints?",
+    "answer": "Explore volunteering opportunities on ipts.innopolis.university using your inno email. Create your project, confirm it with [@VOSpiridonova](http://t.me/VOSpiridonova), and after closing the event on the website, you'll earn innopoints.",
+    "generated_answer": "To volunteer and earn innopoints, you can follow these steps:\n\n1. Visit ipts.innopolis.university and login using your inno email.\n2. Browse through the available volunteering opportunities on the website.\n3. If you find an opportunity that interests you, you can create your own project by preliminary agreeing it with @VOSpiridonova.\n4. Once you have closed your event on the website, you will be granted with innopoints as a reward for your efforts."
+  },
+  {
+    "question": "How do I know more about extracurricular opportunities?",
+    "answer": "Visit campuslife.innopolis.ru and join [@opportunitiesforyou](https://t.me/opportunitiesforyou) channel for information on extracurricular opportunities.",
+    "generated_answer": "You can find out more about extracurricular opportunities by visiting campuslife.innopolis.ru or joining the @opportunitiesforyou channel on campus. Additionally, joining a student organization or club can help you discover new interests, learn new skills, and network with other students, which can be beneficial for your personal growth and future career prospects. You may also consider reaching out to Evgeniia Dyuzhakova, @janedyuzha_dyuzha, Student Clubs Advisor, who can assist you in finding relevant clubs and organizations on campus."
+  }
+]

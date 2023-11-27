@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen.",
+    "generated_answer": "To connect to IU wi-fi, you can use the \"Innopolis\" network with the password \"Innopolis.\" or you can use UniversityStudent network by inputting your email address with @innopolis.university domain and entering your password. Additionally, you can use Ethernet network in your dorm rooms, as well as in the kitchen (in 5 persons room)."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor.",
+    "generated_answer": "If you lost your pass, you can restore it at the main reception desk on the first floor."
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion.",
+    "generated_answer": "The consequences of failing to obey dorm rules may include an administrative violation being recorded in your personal profile. The possible outcomes are a warning, official reprimand, or expulsion. For more detailed information and advice, you can contact the Student Support and Development Department, office 319, or their bot. Additionally, you can refer to paragraphs 3 and 4 of the \"Regulations on the procedure and grounds for transferring, Expelling and reinstating students and granting academic leave to students in the Autonomous Non-profit Organization of Higher Education\"Innopolis University\" at the link provided."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room.",
+    "generated_answer": "The cleaning schedule for dorm rooms is planned by accommodation administration. To clarify the cleaning time of your room, please visit dorm administration located at dorm 3, floor 1."
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/).",
+    "generated_answer": "To print something, you can either take your computer and use the printer on the 5th floor or you can generate a PDF version of the page by clicking on the \"Printable version\" link at the left column of the page. If you don't know how to use the printer, please contact ithelp@innopolis.university."
+  }
+]

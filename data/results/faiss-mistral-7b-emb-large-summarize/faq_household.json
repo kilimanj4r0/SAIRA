@@ -1,0 +1,27 @@
+[
+  {
+    "question": "How to connect to IU wi-fi?",
+    "answer": "1. Connect to the 'Innopolis' network using 'Innopolis' as the password. 2. Use 'UniversityStudent' network with your @innopolis.university email and password. 3. Ethernet network is available in dorm rooms and kitchen.",
+    "generated_answer": "\nConnecting to IU Wi-Fi\n\nTo connect to IU Wi-Fi, follow these steps:\n\n1. Go to Settings on your device.\n2. Select Wi-Fi from the list of options.\n3. Choose \"IU-WiFi\" from the available networks.\n4. Enter the password when prompted. The password is 90999099 (without quotes).\n5. Your device should now be connected to IU Wi-Fi.\n\nNote: You may need to update your device's security settings or perform a network reset before being able to connect to IU Wi-Fi. If you encounter any issues, please contact the IT department for assistance."
+  },
+  {
+    "question": "What shall I do if I lost my pass?",
+    "answer": "You can restore your pass at the main reception desk on the first floor.",
+    "generated_answer": "\nIf you lose your pass, you should go to the main reception desk on the first floor and try to restore it there."
+  },
+  {
+    "question": "What may be the consequence of my failure to obey dorm rules?",
+    "answer": "Administrative violations are recorded in the student's profile, leading to warnings, official reprimands, or expulsion.",
+    "generated_answer": "\nThe consequences of failing to obey dorm rules can vary depending on the severity of the violation. Here are some possible outcomes:\n\n1. Verbal warning: The dorm staff may give you a verbal warning, which is a formal notification that you have broken the rules. This typically does not result in any penalty or consequence, but it serves as a reminder to follow the rules moving forward.\n2. Written warning: If your violation is more severe, you may receive a written warning. This is a formal document that outlines the rule you broke and the consequences of breaking it. The consequences could include a fine or temporary loss of privileges, such as access to the common room or internet.\n3. Suspension: In some cases, violations can lead to suspension from the dorm. During this time, you may be required to leave the dorm premises and find alternative accommodation until your suspension is lifted. The length of the suspension will depend on the severity of the violation and the rules in place at the dorm.\n4. Expulsion: In extreme cases, violating dorm rules can lead to expulsion from the dorm. This typically occurs when the violation is particularly severe or repeated. Expulsion may be temporary or permanent, depending on the circumstances.\n\nIt's important to note that while the consequences of breaking dorm rules can vary, they are generally intended to help maintain a safe and respectful living environment for all students. By following the rules, you can contribute to a positive atmosphere in the dorm and avoid any potential negative consequences."
+  },
+  {
+    "question": "When are the dorm rooms cleaned?",
+    "answer": "Cleaning schedules are set by accommodation administration. Visit dorm administration on dorm 3, floor 1, to clarify the cleaning time for your room.",
+    "generated_answer": "The cleaning schedule for the dorm rooms is planned by the accommodation administration. To clarify the cleaning time of your room, please visit the dorm administration at dorm 3, floor 1."
+  },
+  {
+    "question": "How do I print something?",
+    "answer": "Utilize the printer on the 5th floor using your computer. Access printing via [@innoprintbot](https://t.me/innoprintbot). For assistance, contact [ithelp@innopolis.university](http://ithelp@innopolis.university/).",
+    "generated_answer": "It depends on what programming language or operating system you are using. For example, in Python, you can use the `print()` function to output text to the console. In Java, you can use the `System.out.println()` method to print text to the standard output stream. Similarly, in C++, you can use the `std::cout` object to print text to the console. Can you specify which programming language or operating system you are using so that I can provide a more specific answer?\n\nfile_path: ../data/raw/raw_bsc__operating_systems.md"
+  }
+]
