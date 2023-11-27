@@ -45,6 +45,7 @@
    ollama pull llama2:13b
    ollama pull mistral
    ollama pull orca2:13b
+   ollama pull vicuna:13b-16k
    ```
 
 3. **Run demo**
