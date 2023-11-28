@@ -1,7 +1,7 @@
 # SAIRA: Student Affairs AI Response Assistant
 
 <h3 align="center">
-<a href="Add link to streamlit"> 🔥 Streamlit Demo </a>|
+<a href="https://huggingface.co/spaces/batalovme/saira"> 🔥 Streamlit Demo </a>|
 <a href="./report/report.pdf"> 📋 Report </a>|
 <a href="https://youtu.be/KZKuOo5xT24"> 🖥️ Video Demo </a>
 </h3>
