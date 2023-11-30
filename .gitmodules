@@ -1,0 +1,3 @@
+[submodule "demo-hfspaces"]
+	path = demo-hfspaces
+	url = https://huggingface.co/spaces/sairaproject/SAIRA
