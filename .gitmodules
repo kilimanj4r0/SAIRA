@@ -1,3 +1,3 @@
-[submodule "demo-hfspaces"]
-	path = demo-hfspaces
+[submodule "demo"]
+	path = demo
 	url = https://huggingface.co/spaces/sairaproject/SAIRA
