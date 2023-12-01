@@ -2,8 +2,9 @@
 
 <h3 align="center">
 <a href="https://huggingface.co/spaces/sairaproject/SAIRA"> 🔥 Streamlit Demo </a>|
-<a href="./report/report.pdf"> 📋 Report </a>|
-<a href="https://youtu.be/KZKuOo5xT24"> 🖥️ Video Demo </a>
+<a href="https://youtu.be/KZKuOo5xT24"> 🖥️ Video Demo </a>|
+<a href="./report/SAIRA Slides.pdf"> 📊 Slides </a>|
+<a href="./report/report.pdf"> 📋 Report </a>
 </h3>
 
 <p align="center">
