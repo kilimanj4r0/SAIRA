@@ -49,12 +49,6 @@
    ollama pull vicuna:13b-16k
    ```
 
-3. **Run demo**
-   ```bash
-   cd demo-streamlit
-   streamlit run demo.py
-   ```
-
 ## 📌 Introduction
 
 SAIRA is an intelligent chatbot designed for the Student Affairs Office of our University. Powered by a Large Language Model (LLM), it aims to promptly address students' queries about various aspects of student life. Our initiative not only seeks to enhance the student experience but also ensures swift, efficient, and accurate dissemination of crucial information.
